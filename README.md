@@ -35,7 +35,7 @@ git clone https://github.com/CCRobert1997/mingli-reading.git \
 ## 用法示例
 
 ```
-1997-01-07 酉时 男 浙江绍兴，看看这个八字
+2000-01-01 子时 男 新加坡，看看这个八字
 ```
 
 ```
