@@ -62,7 +62,7 @@ mingli-reading/
 
 ## License
 
-<填你的 license，建议 MIT>
+本项目采用 **MIT License** —— 随便用、改、再分发，保留版权声明即可。详见 [LICENSE](./LICENSE)。
 
 ---
 
